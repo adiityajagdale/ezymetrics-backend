@@ -39,7 +39,7 @@ Ezymetrics is a backend service designed to integrate with dummy CRM and marketi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ezymetrics-backend.git
+   git clone https://github.com/adiityajagdale/ezymetrics-backend.git
    cd ezymetrics-backend
 
    ```
