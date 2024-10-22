@@ -1,0 +1,3 @@
+_id,name,email,source,status,createdAt,__v
+6717dba0bd9483c7bd635fc6,John Doe,john@example.com,Website,New,Tue Oct 22 2024 22:36:40 GMT+0530 (India Standard Time),0
+6717dba0bd9483c7bd635fc7,Jane Smith,jane@example.com,LinkedIn,Contacted,Tue Oct 22 2024 22:36:40 GMT+0530 (India Standard Time),0

@@ -1,0 +1,27 @@
+{
+  "name": "ezymetrics-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Backend service for EzyMetrics data integration and reporting",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.9.1",
+    "pdfkit": "^0.15.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "nodemon": "^2.0.22",
+    "supertest": "^6.3.3"
+  }
+}
